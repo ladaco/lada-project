@@ -11,8 +11,10 @@ Lada Coin (LDC) in Polygon (MATIC): https://polygonscan.com/address/0x1ADA022871
 
 Code: https://github.com/ladaco/lada-project/contract
 
-<b>Ladacoin v0.10.12 wallet</b>:
+<b>Ladacoin v0.10.4.12 wallet</b>:
 
 Ladacoin (LDC):
-
 https://github.com/ladaco/ladacoin
+
+Releases:
+https://github.com/ladaco/ladacoin/releases
